@@ -1,0 +1,11 @@
+symptom,recommended_specialization,urgency_level
+chest pain,Cardiology,High
+headache,Neurology,Medium
+fever,Pediatrics,High
+joint pain,Orthopedics,Medium
+skin rash,Dermatology,Low
+stomach pain,Gastroenterology,Medium
+diabetes symptoms,Endocrinology,Medium
+breathing difficulty,Pulmonology,High
+menstrual issues,Gynecology,Low
+depression,Psychiatry,Medium

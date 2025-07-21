@@ -1,0 +1,11 @@
+doctor_id,name,specialization,experience,rating,location,consultation_fee
+1,Dr. Asha Sharma,Cardiology,18,4.8,Mumbai,1200
+2,Dr. Ramesh Mehta,Neurology,15,4.6,Delhi,1500
+3,Dr. Neha Patil,Pediatrics,10,4.9,Bangalore,800
+4,Dr. Arjun Iyer,Orthopedics,12,4.7,Hyderabad,1000
+5,Dr. Priya Kapoor,Dermatology,8,4.5,Chennai,700
+6,Dr. Vikram Singh,Gastroenterology,14,4.8,Pune,1100
+7,Dr. Swati Nair,Endocrinology,9,4.6,Ahmedabad,950
+8,Dr. Karan Desai,Pulmonology,13,4.7,Kolkata,1050
+9,Dr. Meera Joshi,Gynecology,11,4.4,Jaipur,900
+10,Dr. Suresh Rao,Psychiatry,16,4.9,Lucknow,1150
